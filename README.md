@@ -33,6 +33,7 @@ pip install yolo
 # 5. Configure Paths
 # Navigate to the "run_py_files" folder and open the Python files.
 # Update paths for custom models and datasets.
+# Download and add weights file (best106.pt)
 
 # 6. Run the Model
 # Execute the main Python script (e.g., main.py).
